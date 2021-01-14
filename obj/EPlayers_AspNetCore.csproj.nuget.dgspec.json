@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinixiii\\Desktop\\E-PLayers_AspNetCore\\EPlayers_AspNetCore.csproj": {}
+    "C:\\Users\\vinixiii\\Desktop\\EPLayers_AspNetCore\\EPlayers_AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinixiii\\Desktop\\E-PLayers_AspNetCore\\EPlayers_AspNetCore.csproj": {
+    "C:\\Users\\vinixiii\\Desktop\\EPLayers_AspNetCore\\EPlayers_AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinixiii\\Desktop\\E-PLayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\vinixiii\\Desktop\\EPLayers_AspNetCore\\EPlayers_AspNetCore.csproj",
         "projectName": "EPlayers_AspNetCore",
-        "projectPath": "C:\\Users\\vinixiii\\Desktop\\E-PLayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+        "projectPath": "C:\\Users\\vinixiii\\Desktop\\EPLayers_AspNetCore\\EPlayers_AspNetCore.csproj",
         "packagesPath": "C:\\Users\\vinixiii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinixiii\\Desktop\\E-PLayers_AspNetCore\\obj\\",
+        "outputPath": "C:\\Users\\vinixiii\\Desktop\\EPLayers_AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinixiii\\AppData\\Roaming\\NuGet\\NuGet.Config"
