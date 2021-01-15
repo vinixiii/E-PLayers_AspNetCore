@@ -72,3 +72,40 @@ C:\Users\vinixiii\Desktop\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_A
 C:\Users\vinixiii\Desktop\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.pdb
 C:\Users\vinixiii\Desktop\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.genruntimeconfig.cache
 C:\Users\vinixiii\Desktop\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CopyComplete
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.exe
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.deps.json
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.runtimeconfig.json
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.dll
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.pdb
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.Views.dll
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_AspNetCore.Views.pdb
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.AssemblyInfo.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.TagHelpers.input.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.TagHelpers.output.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorCoreGenerate.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.Views.pdb
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers_AspNetCore.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers_AspNetCore.StaticWebAssets.xml
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.dll
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.pdb
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.genruntimeconfig.cache
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CopyComplete

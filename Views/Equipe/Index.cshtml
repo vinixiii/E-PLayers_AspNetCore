@@ -3,20 +3,31 @@
     ViewData["Title"] = "Equipes";
 }
 
+<div class="titulo_pagina">
+    <h1>Cadastro de @ViewData["Title"]</h1>
+</div>
+
 @* O action deve ter o mesmo nome do método no controller que ele quuer chamar *@
 @* enctype="multipart/form-data" -> permite trabalhar com arquivos *@
 @* Adicionamos o enctype para permitir a inserção de arquivos e mudamos o tipo do input Imagem para file *@
-<form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
-    <label>ID</label>
-    <input type="text" name="IdEquipe" />
+<form class="cadastro" method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+    
+    <div class="campo">
+        <label>ID</label>
+        <input type="text" name="IdEquipe" />
+    </div>
 
-    <label>Nome</label>
-    <input type="text" name="Nome" />
+    <div class="campo">
+        <label>Nome</label>
+        <input type="text" name="Nome" />
+    </div>
 
-    <label>Imagem</label>
-    <input type="file" name="Imagem" />
+    <div class="campo">
+        <label>Imagem</label>
+        <input type="file" name="Imagem" />
+    </div>
 
-    <button type="submit">Cadastrar</button>
+    <button class="gradient btn" type="submit">Cadastrar</button>
 </form>
 
 <table class="table table-striped table-responsive">
@@ -24,6 +35,7 @@
         <th>ID</th>
         <th>Nome</th>
         <th>Imagem</th>
+        <th>Ação</th>
     </thead>
     <tbody>
         @foreach (Equipe equipe in ViewBag.Equipes)
