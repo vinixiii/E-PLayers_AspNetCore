@@ -109,3 +109,4 @@ C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreap
 C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.pdb
 C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.genruntimeconfig.cache
 C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CopyComplete
+C:\Users\fic\Desktop\Vinícius Figueiroa\EPLayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
