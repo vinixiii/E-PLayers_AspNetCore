@@ -65,6 +65,7 @@ ul{
     justify-content: center;
     align-items: center;
     font-size: 23px;
+    flex-direction: column;
 }
 .btn{
     color: white;
@@ -74,9 +75,9 @@ ul{
     border-radius: 5px;
 }
 
-.banner .btn{
+/* .banner .btn{
     margin-top: 230px;
-}
+} */
 
 .sobre{
     background-image: url("../Images/Teams/T6.jpg");
@@ -523,4 +524,16 @@ table img{
 
 .icone-excluir {
     color: var(--pink);
+}
+
+.erro {
+    color: var(--pink);
+}
+
+.banner a {
+    margin: 10px;
+}
+
+.banner a:first-child {
+    margin-top: 245px;
 }

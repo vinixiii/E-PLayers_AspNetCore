@@ -11,11 +11,13 @@ namespace EPLayers_AspNetCore.Controllers
     public class JogadorController : Controller
     {
         Jogador jogadorModel = new Jogador();
+        Equipe equipeModel = new Equipe();
         
         // [Route("Listar-Jogadores")]
         public IActionResult Index()
         {
             ViewBag.Jogadores = jogadorModel.ReadAll();
+            ViewBag.Equipes = equipeModel.ReadAll();
             return View();
         }
 

@@ -15,8 +15,15 @@
     </div>
 
     <div class="campo">
-        <label>ID Equipe</label>
-        <input type="text" name="IdEquipe" required />
+        <label>Equipe</label>
+        @* Fizemos uma caixa de seleção *@
+        <select name="IdEquipe" id="IdEquipe">
+            <option value="0">Selecione uma opção</option>
+            @foreach (var item in ViewBag.Equipes)
+            {
+                <option value="@item.IdEquipe">@item.Nome</option>
+            }
+        </select>
     </div>
 
     <div class="campo">
