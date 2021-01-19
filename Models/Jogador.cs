@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using EPLayers_AspNetCore.Interfaces;
@@ -43,9 +44,9 @@ namespace EPlayers_AspNetCore.Models
                 string[] linha = item.Split(";");
 
                 Jogador jogador = new Jogador();
-                jogador.IdJogador = int.Parse(linha[0]);
+                jogador.IdJogador = Int32.Parse(linha[0]);
                 jogador.Nome = linha[1];
-                jogador.IdEquipe = int.Parse(linha[2]);
+                jogador.IdEquipe = Int32.Parse(linha[2]);
                 jogador.Email = linha[3];
                 jogador.Senha = linha[4];
 

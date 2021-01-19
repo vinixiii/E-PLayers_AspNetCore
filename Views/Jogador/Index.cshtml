@@ -11,27 +11,27 @@
 
     <div class="campo">
         <label>ID Jogador</label>
-        <input type="text" name="IdJogador" />
+        <input type="text" name="IdJogador" required />
     </div>
 
     <div class="campo">
         <label>ID Equipe</label>
-        <input type="text" name="IdEquipe" />
+        <input type="text" name="IdEquipe" required />
     </div>
 
     <div class="campo">
         <label>Nome</label>
-        <input type="text" name="Nome" />
+        <input type="text" name="Nome" required />
     </div>
 
     <div class="campo">
         <label>Email</label>
-        <input type="text" name="Email" />
+        <input type="text" name="Email" required />
     </div>
 
     <div class="campo">
         <label>Senha</label>
-        <input type="password" name="Senha" />
+        <input type="password" name="Senha" required />
     </div>
 
     <button class="gradient btn" type="submit">Cadastrar</button>
@@ -42,6 +42,7 @@
         <th>ID</th>
         <th>Nome</th>
         <th>Email</th>
+        <th>Ação</th>
     </thead>
     <tbody>
         @foreach(Jogador j in ViewBag.Jogadores){
@@ -49,6 +50,7 @@
                 <td>@j.IdJogador</td>
                 <td>@j.Nome</td>
                 <td>@j.Email</td>
+                <td><a class="icone-excluir" asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@j.IdJogador"><i class="far fa-times-circle"></i></a></td>
             </tr>
         }
     </tbody>

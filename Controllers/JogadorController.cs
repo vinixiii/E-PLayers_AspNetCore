@@ -12,7 +12,7 @@ namespace EPLayers_AspNetCore.Controllers
     {
         Jogador jogadorModel = new Jogador();
         
-        [Route("Listar-Jogadores")]
+        // [Route("Listar-Jogadores")]
         public IActionResult Index()
         {
             ViewBag.Jogadores = jogadorModel.ReadAll();
@@ -31,7 +31,17 @@ namespace EPLayers_AspNetCore.Controllers
             jogadorModel.Create(novoJogador);            
             ViewBag.Jogadores = jogadorModel.ReadAll();
 
-            return LocalRedirect("~/Jogador/Listar-Jogadores");
+            return LocalRedirect("~/Jogador");
+        }
+
+        [Route("Jogador/{id}")]
+        public IActionResult Excluir(int id)
+        {
+            //Deletar a equipe
+            jogadorModel.Delete(id);
+            //Atualizar a lista
+            ViewBag.Equipes = jogadorModel.ReadAll();
+            return LocalRedirect("~/Jogador");
         }
     }
 }

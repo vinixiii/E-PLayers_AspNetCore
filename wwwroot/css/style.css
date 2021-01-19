@@ -519,4 +519,8 @@ table img{
    }
    
   
-} /* Fim media mas 460px*\
+} /* Fim media mas 460px */
+
+.icone-excluir {
+    color: var(--pink);
+}
