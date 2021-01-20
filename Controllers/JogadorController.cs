@@ -16,6 +16,7 @@ namespace EPLayers_AspNetCore.Controllers
         // [Route("Listar-Jogadores")]
         public IActionResult Index()
         {
+            ViewBag.Username = HttpContext.Session.GetString("_Username");
             ViewBag.Jogadores = jogadorModel.ReadAll();
             ViewBag.Equipes = equipeModel.ReadAll();
             return View();
@@ -39,8 +40,15 @@ namespace EPLayers_AspNetCore.Controllers
         [Route("Jogador/{id}")]
         public IActionResult Excluir(int id)
         {
-            //Deletar a equipe
-            jogadorModel.Delete(id);
+            //Recebe o Id do usuário que está logado
+            var userId = HttpContext.Session.GetString("_UserId");
+
+            if(userId == id.ToString())
+            {
+                //Deletar a equipe
+                jogadorModel.Delete(id);
+            }
+
             //Atualizar a lista
             ViewBag.Equipes = jogadorModel.ReadAll();
             return LocalRedirect("~/Jogador");

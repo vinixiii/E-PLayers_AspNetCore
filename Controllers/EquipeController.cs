@@ -21,6 +21,7 @@ namespace E_PLayers_AspNetCore.Controllers
         [Route("Listar")]
         public IActionResult Index()
         {
+            ViewBag.Username = HttpContext.Session.GetString("_Username");
             //ViewBag é como se fosse um pacote de informações que será enviado para a View. Sendo assim, listamos todas as equipes e enviamos para a View, através da ViewBag
             ViewBag.Equipes = equipeModel.ReadAll();
             //Este retorno de View é justamente a página Index

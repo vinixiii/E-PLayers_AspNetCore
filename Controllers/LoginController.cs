@@ -38,6 +38,7 @@ namespace E_PLayers_AspNetCore.Controllers
         {
             //Criamos uma sessão com os dados do usuário
             HttpContext.Session.SetString("_Username", logado.Split(";")[1]);
+            HttpContext.Session.SetString("_UserId", logado.Split(";")[0]);
 
             return LocalRedirect("~/");
         }
